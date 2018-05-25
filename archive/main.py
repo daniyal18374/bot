@@ -388,7 +388,7 @@ def get_marks_session(html):
 
 
 def main():
-    print('Hello')
+    print('Hello123')
     # group_page_orig
     # faculty_page_guimc
     # group_page_asp
